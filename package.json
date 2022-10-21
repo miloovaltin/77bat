@@ -1,0 +1,16 @@
+{
+"name": "77bat",
+"theme": "77bat",
+"version": "3.8.2",
+"description": "77bat ทางเข้าเว็บไซต์แทงบอลเว็บตรง คนเล่นเยอะ แจกเงินเครดิตฟรี",
+"keywords": [
+"77bat",
+"77bat เครดิตฟรี",
+"77bat ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/77bat",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
